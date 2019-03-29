@@ -3,4 +3,3 @@ def square_array(array)
   array.map {|x| x**2}
 end
 
-print square_array(square_array)
